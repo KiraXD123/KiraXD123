@@ -11,5 +11,6 @@ working on it.....
 
 # Contact Me 
 <br>
-<b>Discord </b>
-**<a href="https://discord.com/users/1078294134051328111">Khira11</a>**:You can Contact me on Discord by sending Friend request.
+<b>1.Discord </b>
+<br>
+<a href="https://discord.com/users/1078294134051328111">Khira11</a> :You can Contact me on Discord by sending Friend request.
