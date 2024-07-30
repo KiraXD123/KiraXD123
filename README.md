@@ -12,7 +12,7 @@ working on it.....
 # Contact Me 
 <br>
 <b>1.Discord</b>
-<a href="https://discord.com/users/1078294134051328111" target="_main"></a> :You can Contact me on Discord by sending Friend request.
+<a href="https://discord.com/users/1078294134051328111" target="_main">Discord</a> :You can Contact me on Discord by sending Friend request.
 <br>
 <b>2.Insta</b>
-<a href="https://www.instagram.com/kira_xd07/" target="main"></a> :You can Contact me on Insta by sending dm request.
+<a href="https://www.instagram.com/kira_xd07/" target="_main">Insta</a> :You can Contact me on Insta by sending dm request.
