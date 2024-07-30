@@ -12,4 +12,4 @@ working on it.....
 # Contact Me 
 <br>
 <b>Discord </b>
-You can Contact me on discord `discord.com/users/1078294134051328111`
+You can Contact me on discord id-Khira11
