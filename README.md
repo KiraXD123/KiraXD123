@@ -9,7 +9,7 @@ I'm currently diving into the exciting world of web development, learning new te
 
 working on it.....
 
-<!---
-KiraXD123/KiraXD123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Contact Me 
+<br>
+<b>Discord </b>
+You can Contact me on discord `discord.com/users/1078294134051328111`
