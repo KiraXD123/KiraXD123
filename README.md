@@ -16,7 +16,7 @@ working on it.....
 <a href="https://www.instagram.com/kira_xd07/" target="_main">2.Insta</a> :You can Contact me on Insta by sending dm request.
 <br>
 
-# Currently Learning 
+# Currently On 
 <br>
 <ol>
 <li>Web Development</li>
